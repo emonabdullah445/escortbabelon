@@ -12,7 +12,7 @@ export default function Home({ adminId, posterId }) {
             <img
               src="/images/homepage.png"
               alt="megaeprsonals"
-              className="w-full h-full object-cover"
+              className="w-full h-full"
             />
           </div>
         </div>
